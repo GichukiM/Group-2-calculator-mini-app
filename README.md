@@ -28,5 +28,5 @@ We will then assign the prompt function to variable to return a value to use lat
 
 ##### let operator = prompt("Enter Operator: ");
 
-The variable (let operator = ...) above and any other code written in this project repository will change depending on the project you are doing.
+The variable above (let operator = ...) and any other code written in this project repository will change depending on the project you are doing.
 
