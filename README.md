@@ -22,7 +22,7 @@ We will then have to assign the prompt to a variable as shown below:
 
 The prompt-sync module is a function that creates prompting functions, so you need to call prompt-sync in order to get your actual prompting function.
 
-"signit" - SIGNAL INTERRUPT - is used to indicate user wants to exit the program
+"sigint" - SIGNAL INTERRUPT - is used to indicate user wants to exit the program
 
 We will then assign the prompt function to variable to return a value to use later in the program  eg:
 
